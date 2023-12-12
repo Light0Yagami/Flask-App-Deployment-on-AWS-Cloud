@@ -94,8 +94,7 @@ export AWS_DEFAULT_REGION=<YOUR_AWS_REGION>
 export DYNAMO_MODE=on
 FLASK_APP=application.py /usr/local/bin/flask run --host=0.0.0.0 -
 
----
-
+```
 ## Setting Up Networking
 
 ### Task 1: Creating the VPC
